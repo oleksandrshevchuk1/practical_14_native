@@ -1,0 +1,37 @@
+[
+  {
+    "seconds": 0.0,
+    "action": "Початковий стан застосунку",
+    "screenshot": "screenshots/android/01.png"
+  },
+  {
+    "seconds": 2.3,
+    "action": "Виклик Kotlin через MethodChannel",
+    "screenshot": "screenshots/android/02.png"
+  },
+  {
+    "seconds": 9.8,
+    "action": "Відкриття камери емулятора",
+    "screenshot": "screenshots/android/03.png"
+  },
+  {
+    "seconds": 20.9,
+    "action": "Знімок камерою Android",
+    "screenshot": "screenshots/android/04.png"
+  },
+  {
+    "seconds": 33.6,
+    "action": "Підтвердження фото та повернення у Flutter",
+    "screenshot": "screenshots/android/05.png"
+  },
+  {
+    "seconds": 47.1,
+    "action": "Повне фото після прокрутки",
+    "screenshot": "screenshots/android/06.png"
+  },
+  {
+    "seconds": 52.2,
+    "action": "Підсумковий стан",
+    "screenshot": "screenshots/android/07.png"
+  }
+]

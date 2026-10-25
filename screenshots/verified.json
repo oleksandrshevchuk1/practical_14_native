@@ -1,0 +1,23 @@
+{
+  "number": 14,
+  "source": "actual Android runtime",
+  "reviewed": true,
+  "complete": true,
+  "screenshots": [
+    {
+      "file": "01-native.png",
+      "description": "Результат справжнього Kotlin-виклику: Hi, Mom!",
+      "source": "android/02.png"
+    },
+    {
+      "file": "02-photo.png",
+      "description": "Фото з камери Android повернуто у Flutter",
+      "source": "android/05.png"
+    },
+    {
+      "file": "03-photo-full.png",
+      "description": "Повне фото після прокрутки",
+      "source": "android/06.png"
+    }
+  ]
+}
